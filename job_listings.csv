@@ -1,0 +1,21 @@
+Job Title,Company Name,Location,Summary,Version,Category,Scraped Date
+Scrapy,Unknown,https://pypi.org/project/scrapy,A high-level Web Crawling and Web Scraping framework,2.15.2,Web Scraping,2026-05-09
+beautifulsoup4,Unknown,https://pypi.org/project/beautifulsoup4,Screen-scraping library,4.14.3,Web Scraping,2026-05-09
+selenium,Unknown,https://www.selenium.dev,Official Python bindings for Selenium WebDriver,4.43.0,Web Scraping,2026-05-09
+playwright,Microsoft Corporation License-Expression: Apache-2.0,https://pypi.org/project/playwright,A high-level API to automate web browsers,1.59.0,Web Scraping,2026-05-09
+mechanize,Kovid Goyal,https://github.com/python-mechanize/mechanize,"Stateful, programmatic web browsing",0.4.10,Web Scraping,2026-05-09
+pandas,Unknown,https://pypi.org/project/pandas,"Powerful data structures for data analysis, time series, and statistics",3.0.2,Data Extraction,2026-05-09
+tabula-py,Unknown,https://pypi.org/project/tabula-py,"Simple wrapper for tabula-java, read tables from PDF into DataFrame",2.10.0,Data Extraction,2026-05-09
+pdfplumber,Jeremy Singer-Vine,https://github.com/jsvine/pdfplumber,"Plumb a PDF for detailed information about each char, rectangle, and line.",0.11.9,Data Extraction,2026-05-09
+openpyxl,See AUTHORS,https://openpyxl.readthedocs.io,A Python library to read/write Excel 2010 xlsx/xlsm files,3.1.5,Data Extraction,2026-05-09
+xlrd,Chris Withers,http://www.python-excel.org/,Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files,2.0.2,Data Extraction,2026-05-09
+PyAutoGUI,Al Sweigart,https://github.com/asweigart/pyautogui,"PyAutoGUI lets Python control the mouse and keyboard, and other GUI automation tasks. For Windows, macOS, and Linux, on ",0.9.54,Automation,2026-05-09
+robotframework,Pekka Klärck,https://robotframework.org,Generic automation framework for acceptance testing and robotic process automation (RPA),7.4.2,Automation,2026-05-09
+invoke,Unknown,https://pypi.org/project/invoke,Pythonic task execution,3.0.3,Automation,2026-05-09
+fabric,Jeff Forcier,https://fabfile.org,High level SSH command execution,3.2.3,Automation,2026-05-09
+watchdog,Mickaël Schoentgen,https://github.com/gorakhargosh/watchdog,Filesystem events monitoring,6.0.0,Automation,2026-05-09
+luigi,The Luigi Authors,https://pypi.org/project/luigi,Workflow mgmgt + task scheduling + dependency resolution.,3.8.1,Data Pipeline,2026-05-09
+prefect,Unknown,https://pypi.org/project/prefect,Workflow orchestration and management.,3.7.0,Data Pipeline,2026-05-09
+kedro,Kedro,https://pypi.org/project/kedro,Kedro helps you build production-ready data and analytics pipelines,1.3.1,Data Pipeline,2026-05-09
+dagster,Unknown,https://pypi.org/project/dagster,"Dagster is an orchestration platform for the development, production, and observation of data assets.",1.13.4,Data Pipeline,2026-05-09
+apache-airflow,Unknown,https://pypi.org/project/apache-airflow,"Programmatically author, schedule and monitor data pipelines",3.2.1,Data Pipeline,2026-05-09
